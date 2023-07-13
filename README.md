@@ -23,7 +23,7 @@
 
 
 ### Studying in this moment:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=0D1117)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 - 🔭 Atualmente trabalho com Back-end
 - 🌱 Estudando e me especializando em Java pela EBAC
