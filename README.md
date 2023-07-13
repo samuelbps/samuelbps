@@ -21,7 +21,7 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=0D1117);
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=0D1117)
 
 - 🔭 Hoje trabalho com Front-end
 - 🌱 Estudando e me aprofundando mais em HTML, CSS, JS e ReactJS
